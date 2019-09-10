@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+	<head>
+	<title> Première page </title>
+	<meta charset="UTF-8">
+	<hr> Hello_World <br>
+	</head>
+	<font color="118CDC" style="font-size:32px;" face="impact"> Test numéro un</font>
+	<br> <font color="5DE522" style="font-size:64px;" face="Georgia"> Test Number two</font>
+	<br> <center> <font color="FC2B0F" style="font-size:24px;" face="Helvetica"> Voici un Lapin.</font> </center>
+	<br> <center> <img src="https://images-na.ssl-images-amazon.com/images/I/71LvGFbIGdL._SX425_.jpg"> </center>
+	<br> <center> <font color="FC2B0F" style="font-size:24px;" face="Helvetica"> Et voici un Chat!</font> </center>
+	<br> <center> <img src="https://img.bfmtv.com/c/1000/600/bcd/e29aa26799b117643a786cd5eab95.jpeg"></center>
+	<br> <center> <font color="FC2B0F" style="font-size:24px;" face="Helvetica"> Et enfin un secret:</font> <font color="FFFFFF" style="font-size:24px;"> J'aime l'Italie</font> </center>
+</HTML>
