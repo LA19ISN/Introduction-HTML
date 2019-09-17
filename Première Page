@@ -4,11 +4,23 @@
 	<meta charset="UTF-8">
 	<hr> Hello_World <br>
 	</head>
-	<font color="118CDC" style="font-size:32px;" face="impact"> Test numéro un</font>
-	<br> <font color="5DE522" style="font-size:64px;" face="Georgia"> Test Number two</font>
-	<br> <center> <font color="FC2B0F" style="font-size:24px;" face="Helvetica"> Voici un Lapin.</font> </center>
-	<br> <center> <img src="https://images-na.ssl-images-amazon.com/images/I/71LvGFbIGdL._SX425_.jpg"> </center>
-	<br> <center> <font color="FC2B0F" style="font-size:24px;" face="Helvetica"> Et voici un Chat!</font> </center>
-	<br> <center> <img src="https://img.bfmtv.com/c/1000/600/bcd/e29aa26799b117643a786cd5eab95.jpeg"></center>
-	<br> <center> <font color="FC2B0F" style="font-size:24px;" face="Helvetica"> Et enfin un secret:</font> <font color="FFFFFF" style="font-size:24px;"> J'aime l'Italie</font> </center>
+		<font color="#118CDC" style="font-size:32px;" face="impact"> Test numéro un</font>
+			<br> 
+		<font color="#5DE522" style="font-size:64px;" face="Georgia"> Test Number two</font>
+			<br> <center> 
+		<font color="#FC2B0F" style="font-size:24px;" face="Helvetica"> Voici un Lapin.</font> </center>
+			<br> <center> 
+		<img src="https://images-na.ssl-images-amazon.com/images/I/71LvGFbIGdL._SX425_.jpg"> </center>
+			<br> <center> 
+		<font color="#FC2B0F" style="font-size:24px;" face="Helvetica"> Et voici un Chat!</font> </center>
+			<br> <center> 
+		<img src="https://img.bfmtv.com/c/1000/600/bcd/e29aa26799b117643a786cd5eab95.jpeg"></center>
+			<br> <center> 
+		<font color="#FC2B0F" style="font-size:24px;" face="Helvetica"> Et enfin un secret:</font> 
+		<font color="#FFFFFF" style="font-size:24px;"> J'aime les pâtes</font> </center>
+		<a title="Lycée JB Dumas" href="http://lyc-dumas-ales.ac-montpellier.fr/"> Cliquez pour accéder au site du Lycée JB Dumas </a>
+			<br> 
+		<a title="Lycée JB Dumas" href="http://lyc-dumas-ales.ac-montpellier.fr/"> 
+		<img src="data:image/png;base64,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">
+		</a>
 </HTML>
